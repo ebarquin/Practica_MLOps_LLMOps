@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/eugeniobarquin/Documents/IA/practicas/MLOps_LLMOps/mlruns/964156001334030736/666a2a6eda1742c3b7971803eef25c76/artifacts
+end_time: 1750003880023
+entry_point_name: ''
+experiment_id: '964156001334030736'
+lifecycle_stage: active
+run_id: 666a2a6eda1742c3b7971803eef25c76
+run_name: overjoyed-lamb-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750003878398
+status: 3
+tags: []
+user_id: eugeniobarquin

@@ -1,0 +1,10 @@
+artifact_location: file:///Users/eugeniobarquin/Documents/IA/practicas/MLOps_LLMOps/mlruns/964156001334030736/models/m-4ce388bed86c4a2ba0af98b248132db6/artifacts
+creation_timestamp: 1750003880036
+experiment_id: '964156001334030736'
+last_updated_timestamp: 1750003881065
+model_id: m-4ce388bed86c4a2ba0af98b248132db6
+model_type: null
+name: modelo_nb
+source_run_id: 962fae6bcdb645ceb40e8640eaabc52f
+status: 2
+status_message: null

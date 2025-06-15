@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/eugeniobarquin/Documents/IA/practicas/MLOps_LLMOps/mlruns/964156001334030736/6c9dca2b269f4e0eb8efba9b3b8720ae/artifacts
+end_time: 1750003882169
+entry_point_name: ''
+experiment_id: '964156001334030736'
+lifecycle_stage: active
+run_id: 6c9dca2b269f4e0eb8efba9b3b8720ae
+run_name: clean-seal-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750003881070
+status: 3
+tags: []
+user_id: eugeniobarquin
